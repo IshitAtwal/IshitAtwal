@@ -119,8 +119,8 @@ Passionate about building scalable, secure, and highly available systems while i
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
-<a href="ishtatwal20@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+<a href="mailto:ishitatwal20@gmail.com" target="_blank">
+  <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
 </a>
 
 </p>
